@@ -41,4 +41,4 @@ This project is a **User Management System** built using ASP.NET Web Forms. It p
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Harsh76200/user-management-captcha.git
+   git clone https://github.com/Harsh76200/UserManagementTask
